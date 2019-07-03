@@ -117,6 +117,18 @@ beginning..
    :Tags: 
    :State: Draft
    :END:
+   
+* emacs ---> Konrad and Till
+* Pycharm community ---> Muhammad and Silvia
+* vim ---> Mandela
+* Atom 
+
+*** Task
+
+- Find the text editor you prefer and start using it on your daily work
+
+
+
 ** TT000X - Text files
    :PROPERTIES:
    :Version:  0.1
