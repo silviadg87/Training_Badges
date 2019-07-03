@@ -22,8 +22,11 @@ Begin with the end in mind: Write some questions/aims for each badge.
    :Tags: Legal
    :State: Draft
    :END:
+   
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
+As part of the group you have to accept to abide our group' [Code of Conduct](https://github.com/foerstnerlab/Code_of_Conduct)
 
-- Also refer to ZB MED's person for this
+- Also refer to ZB MED's person for this 
 
 ** TT0002 - Supervision agreement
    :PROPERTIES:
