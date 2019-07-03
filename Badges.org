@@ -76,6 +76,9 @@ beginning..
    :Tags: Software Develeopment
    :END:
 *** Reading recommendations
+
+- http://swcarpentry.github.io/git-novice/
+
 *** Questions:
 - What are version control systemy?
 - What are distributed version control
