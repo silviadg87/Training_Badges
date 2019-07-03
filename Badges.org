@@ -118,10 +118,10 @@ beginning..
    :State: Draft
    :END:
    
-**** emacs ---> Konrad and Till
-**** Pycharm community ---> Muhammad and Silvia
-**** vim ---> Mandela
-**** Atom 
+- emacs ---> Konrad and Till
+- Pycharm community ---> Muhammad and Silvia
+- vim ---> Mandela
+- Atom 
 
 *** Task
 
