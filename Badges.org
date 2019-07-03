@@ -270,7 +270,14 @@ http://swcarpentry.github.io/python-novice-gapminder/
    :END:
 ** TT000X - Python - linting
 
-pylint
+pylint https://en.wikipedia.org/wiki/Pylint
+
+*** Task
+
+- Install pylint
+- Check the quality 
+
+
 black
    :PROPERTIES:
    :Version:  0.1
