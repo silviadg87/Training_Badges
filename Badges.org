@@ -129,6 +129,14 @@ beginning..
    :Tags: 
    :State: Draft
    :END:
+   
+*** Reading recommendations  
+http://swcarpentry.github.io/shell-novice/
+
+
+*** Task
+Go throught all the lesson provided(you can skip the supplementary sessions), including the exercises
+
 ** TT000X - Unix shell - advanced
 - shell scripts
 - for loops
