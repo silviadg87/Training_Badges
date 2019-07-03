@@ -216,6 +216,8 @@ http://swcarpentry.github.io/python-novice-inflammation/
 
 http://swcarpentry.github.io/python-novice-gapminder/
 
+*** Keypoints
+
 - [ ] scripts, REPL (python and ipython), Jupyter notebook
 - [ ] variables
 - [ ] literal
@@ -225,12 +227,13 @@ http://swcarpentry.github.io/python-novice-gapminder/
 - [ ] functions
 - [ ] PEP008
 
-*** Potential exercises
-
 *** Questions
 - What are conditionals
 - What is an iterator
 - What does "pythonic mean?
+
+*** Potential exercises
+
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
