@@ -84,10 +84,13 @@ beginning..
 - What are distributed version control
 - What is git?
 - Which other?
+
 *** Task
-- Generate dummy article Markdown file and put put under version
-  control with git. Make changes.
-- Share this it on Github
+
+- Create a github account (https://github.com/join)
+- Go throught all the lesson provided(you can skip the supplementary sessions), including the exercises
+- Create a first repository about your new project
+
 ** TT000X - Project data organisation
    :PROPERTIES:
    :Version:  0.1
