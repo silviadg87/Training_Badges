@@ -208,9 +208,12 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
    :END:
 ** TT000X - Python beginner 
 
-*** Reading recommendations
+*** Material recommendations
+
+https://eu.udacity.com/course/intro-to-computer-science--cs101
 
 http://swcarpentry.github.io/python-novice-inflammation/
+
 http://swcarpentry.github.io/python-novice-gapminder/
 
 - [ ] scripts, REPL (python and ipython), Jupyter notebook
@@ -221,6 +224,8 @@ http://swcarpentry.github.io/python-novice-gapminder/
 - [ ] for loops
 - [ ] functions
 - [ ] PEP008
+
+*** Potential exercises
 
 *** Questions
 - What are conditionals
